@@ -16,7 +16,7 @@ CV generator can be a powerful tool in 3 ways:
 <h2> major Contributions </h2>
 
 - Fine-tune pre-trained model **GPT-3** with crawled dataset
-- Generation of accepted 
+- Generation of cv statements based on accepted statements dataset 
 - Extractive summarization with **LexRank** algorithm
 - Crawling accepted statements: <a href=https://linkareer.com/>Linkcareer</a> / <a href=https://www.jobkorea.co.kr/> JobKorea </a>
 - Provision of self-branding tool for members of data science society 'KUBIG'
