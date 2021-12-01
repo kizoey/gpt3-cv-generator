@@ -1,7 +1,7 @@
 # gpt3-cv-generator
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp 
 </p>
 <b><i>CV Generator</i></b> is a service that automatically generates a piece of curriculum vitae by entering the first sentence or a few starting words. For instance, if you enter '저의 강점은 성실함입니다.' (One of the strengths is diligence.), the model will automatically generate more sentences that are related to the input sequence. This process is done by utilizing a powerful pre-trained generative language model <a href=https://github.com/openai/gpt-3><b>GPT-3</b></a>. GPT-3 predicts the next token by using the words of the previous tokens. 
 <br>Also, in recent years, it became a trend to provide a one-line summary per each statement. To follow this trend, we also provide an extractive summarization of the generated statement based on <b>LexRank</b> algorithm. <br>
